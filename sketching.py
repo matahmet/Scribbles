@@ -29,3 +29,46 @@ for count, value in enumerate(values):
     
 for count, value in enumerate(values):
     print(count)    
+    
+
+a=[0,1,3,0]
+b=["a",'x','x','b',"k"]
+
+for count,value in enumerate(a):
+    print(value)
+    print(b[count])
+
+
+
+    
+import numpy as np
+
+m=np.zeros((4,4))
+m[1,a]=1
+    
+m[0,[1,3]]=10  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
